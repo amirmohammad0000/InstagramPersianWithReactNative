@@ -11,7 +11,6 @@ This program is not connected to the server and this program is for mobile and I
 #Photos of app pages
 
 ![image](https://user-images.githubusercontent.com/74311184/127896410-1af6b805-4c44-4b34-94a7-349069a9d689.png)
-![image](https://user-images.githubusercontent.com/74311184/127896354-d7844364-1567-4cc1-8ac0-e0332df60449.png)
 ![image](https://user-images.githubusercontent.com/74311184/127896429-271495ed-c87b-43b9-9ba0-5c7b4829b8fc.png)
 ![image](https://user-images.githubusercontent.com/74311184/127896517-a61fc7e1-6ab6-4339-9dad-d6198ecc8c74.png)
 ![image](https://user-images.githubusercontent.com/74311184/127896510-6358f4ca-8c01-4181-992f-fe16cd9936a3.png)
