@@ -19,7 +19,6 @@ This program is not connected to the server and this program is for mobile and I
 ![image](https://user-images.githubusercontent.com/74311184/127896584-47a56400-31ed-42ed-912c-40727fa95a0f.png)
 ![image](https://user-images.githubusercontent.com/74311184/127896644-076d6153-c711-4cd6-844e-9d4f4d4f1c50.png)
 ![image](https://user-images.githubusercontent.com/74311184/127896666-2c30f8e2-cf31-47e9-a519-9690dc2c6161.png)
-![image](https://user-images.githubusercontent.com/74311184/127896556-40f1ac25-a4f4-4870-9d8b-6180bae0dd28.png)
 ![image](https://user-images.githubusercontent.com/74311184/127896682-20a1ac9b-0abb-4585-a9c9-f6cc07f62613.png)
 ![image](https://user-images.githubusercontent.com/74311184/127896623-97f54e65-f105-42a4-bc30-9bb78491fd75.png)
 ![image](https://user-images.githubusercontent.com/74311184/127897005-bad0c95a-18d1-42b6-91e1-466f04dbe7fc.png)
