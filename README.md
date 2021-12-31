@@ -1,13 +1,7 @@
-# project with React-Native
-
-
+# project with React Native;
 
 This is a project that can be run on Android and iOS, in which the front part of the instagram app is designed in Persian, and this app is right to left.
-
 This program is not connected to the server and this program is for mobile and I was able to run the program on the browser using the expo tool.
-
-
-
 #Photos of app pages
 
 ![image](https://user-images.githubusercontent.com/74311184/127896410-1af6b805-4c44-4b34-94a7-349069a9d689.png)
